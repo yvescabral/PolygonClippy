@@ -182,7 +182,7 @@ header iframe {
   right: 10px;
   bottom: 10px;
   background-color: #d3d0c9;
-  background-image: url(pics/pittsburgh.jpg);
+  background-image: url(../pics/pittsburgh.jpg);
   background-size: cover;
   background-position: center center;
 }
@@ -1685,7 +1685,7 @@ p {
 @font-face {
   font-family: "Browsers";
   src: url(fonts/browsers.eot);
-  src: url(fonts/browsers.eot) format("embedded-opentype"), url(fonts/browsers.woff) format("woff"), url(fonts/browsers.ttf) format("truetype"), url(fonts/browsers.svg) format("svg");
+  src: url(fonts/browsers.eot) format("embedded-opentype"), url(../fonts/browsers.woff) format("woff"), url(../fonts/browsers.ttf) format("truetype"), url(../fonts/browsers.svg) format("svg");
   font-weight: normal;
   font-style: normal;
 }
